@@ -1,28 +1,28 @@
 # BuscaCep
-Projeto BuscaCep desenvolvido com Vue.js
+Projeto BuscaCep desenvolvido com Vue.js 3
 
-# BuscaCep
+# Configuração do projeto
+Siga os passos abaixo para configurar e executar o projeto BuscaCep desenvolvido em Vue.js.
 
-## Project setup
+## Instalação de Dependências
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação e Recarregamento Automático para Desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilação e Minificação para Produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Análise e Correção de Arquivos
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
+### Configuração Personalizada
+Consulte a [Referência de Configuração](https://cli.vuejs.org/config/) para personalizar a configuração do projeto.
