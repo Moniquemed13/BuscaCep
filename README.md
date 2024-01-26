@@ -1,7 +1,7 @@
 # BuscaCep
 
 ## Sobre o Projeto:
-O BuscaCep é um projeto desenvolvido com Vue.js que permite buscar informações de endereço a partir do CEP inserido.
+O BuscaCep é um projeto desenvolvido com o poderoso framework Vue.js 3. Ele oferece uma interface simples e eficiente para buscar informações de CEP de forma rápida e intuitiva.
 
 ## Como Iniciar:
 ### 1. Instalação de Dependências
