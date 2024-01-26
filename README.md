@@ -1,28 +1,36 @@
 # BuscaCep
-Projeto BuscaCep desenvolvido com Vue.js 3
 
-# Configuração do projeto
-Siga os passos abaixo para configurar e executar o projeto BuscaCep desenvolvido em Vue.js.
+## Sobre o Projeto:
+O BuscaCep é um projeto desenvolvido com Vue.js que permite buscar informações de endereço a partir do CEP inserido.
 
-## Instalação de Dependências
+## Como Iniciar:
+### 1. Instalação de Dependências
+Para começar, instale as dependências necessárias.
+
 ```
 npm install
 ```
 
-### Compilação e Recarregamento Automático para Desenvolvimento
+### 2. Para Desenvolvimento
+Execute o projeto em modo de desenvolvimento com recarregamento automático.
+
 ```
 npm run serve
 ```
 
-### Compilação e Minificação para Produção
+### 3. Para Produção
+Para criar uma versão otimizada para produção.
+
 ```
 npm run build
 ```
 
-### Análise e Correção de Arquivos
+### 4. Análise e Correção
+Verifique e corrija automaticamente problemas nos arquivos.
+
 ```
 npm run lint
 ```
 
-### Configuração Personalizada
-Consulte a [Referência de Configuração](https://cli.vuejs.org/config/) para personalizar a configuração do projeto.
+### Configuração Adicional:
+Para personalizar a configuração do projeto, consulte a [Referência de Configuração](https://cli.vuejs.org/config/).
