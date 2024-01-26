@@ -1,7 +1,7 @@
 # BuscaCep
 Projeto BuscaCep desenvolvido com Vue.js
 
-# teste-viacep
+# BuscaCep
 
 ## Project setup
 ```
